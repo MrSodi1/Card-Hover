@@ -1,0 +1,16 @@
+.back{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-image: linear-gradient(#BBB8BF, red);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.avatar{
+    border-color: #F2C53D;
+    border-width: medium;   
+}
+.avatar:hover{
+    background-image: radial-gradient(gray,white);
+}
